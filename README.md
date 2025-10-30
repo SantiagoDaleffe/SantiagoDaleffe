@@ -20,7 +20,7 @@ Over the past two years I’ve been building **end-to-end data projects**, from 
 - **[Financial News Sentiment Classification](https://github.com/SantiagoDaleffe/financial-news-sentiment)**  
   ETL and NLP pipeline for financial news sentiment using Docker, MongoDB, PostgreSQL and BERT embeddings.
 
-- **[Bitcoin Price Movement Prediction](https://github.com/SantiagoDaleffe/btc-classifier-project)**  
+- **[Bitcoin Price Movement Prediction](https://github.com/SantiagoDaleffe/BTC_CLASSIFIER_PROJECT)**  
   Binary classification of Bitcoin daily direction using time-series cross-validation and calibrated ML models.
 
 - **[SpaceX Launch Analysis](https://github.com/SantiagoDaleffe/DS-Capstone-Proyect-)**  
