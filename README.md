@@ -26,8 +26,6 @@ Over the past two years I’ve been building **end-to-end data projects**, from 
 - **[SpaceX Launch Analysis](https://github.com/SantiagoDaleffe/DS-Capstone-Proyect-)**  
   Exploratory analysis, API integration, machine learning and interactive dashboard in Dash.
 
-### 🛠️ Tech Stack
-
 ---
 
 ### Tech Stack
