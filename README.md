@@ -1,12 +1,14 @@
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Santiago Daleffe
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Santiago
 
-#### **Applied Machine Learning Engineer | AI & Data Systems Specialist**
+#### **Founding Machine Learning Engineer | AI Architecture & Quant Systems**
 
-I am a pragmatic builder focused on engineering production-grade AI systems, bridging the gap between raw data, Machine Learning, and backend architectures. My focus is on building **robust extraction pipelines** and moving predictive models and autonomous GenAI agents (RAG) from Jupyter notebooks into **containerized, sub-second REST APIs**.
+I build resilient, production-grade ML architectures. My expertise lies in designing **event-driven MLOps pipelines** and **Neurosymbolic AI systems**, bridging the gap between rigorous data science and highly concurrent backend engineering. 
 
-Currently developing end-to-end solutions involving **Asynchronous Agentic Workflows**, **MLOps (LLM-as-a-Judge)**, and **Microservices Architectures**.  
+I focus on moving complex predictive models from Jupyter notebooks into **serverless, sub-second REST APIs**, ensuring absolute data isolation, zero-trust security, and scalable cloud infrastructure.
+
+Currently developing end-to-end solutions involving **Agentic RAG Workflows**, **Continuous Model Retraining (Concept Drift)**, and **Multi-Tenant Microservices**.  
 
 ---
 
@@ -14,20 +16,23 @@ Currently developing end-to-end solutions involving **Asynchronous Agentic Workf
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Autonomous Financial AI Platform (GenAI & RAG)](https://github.com/SantiagoDaleffe/financial-news-lakehouse-rag)** | End-to-end B2B platform powered by **Gemini**. Implements dynamic **Function Calling** for autonomous SQL operations, and a multi-tenant **RAG** pipeline using **RabbitMQ** and Semantic Caching to drastically reduce latency. Evaluated via **RAGAS** and tracked with **MLflow**. | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600) ![Airflow](https://img.shields.io/badge/Airflow-017CEE) |
-| **[Real-Time Fraud Detection Engine](https://github.com/SantiagoDaleffe/credit-risk-scoring-engine)** | Fraud detection system transitioned to a microservices architecture. Deployed as a real-time **FastAPI** REST API backed by a Redis Feature Store. Uses **LightGBM** with **Adversarial Validation** and Class Weights to maximize precision on highly imbalanced datasets. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688) ![LightGBM](https://img.shields.io/badge/LightGBM-green) ![Docker](https://img.shields.io/badge/Docker-2496ED) |
-| **[Quantitative Time-Series Forecasting](https://github.com/SantiagoDaleffe/quantitative-bitcoin-forecasting)** | Directional forecasting framework for high-volatility assets. Implements **Purged Group Time-Series CV** to eliminate data leakage and look-ahead bias, ensuring statistical robustness for batch-scoring pipelines. | ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Scikit-Learn](https://img.shields.io/badge/Sklearn-orange) ![Pandas](https://img.shields.io/badge/Quant-Finance-green) |
+| **[Enterprise Neurosymbolic AI Platform](https://github.com/SantiagoDaleffe/financial-news-lakehouse-rag)** | Multi-tenant B2B SaaS integrating a conversational GenAI agent with a deterministic backend. Features **Cross-Encoder Reranking**, **Pinecone Serverless** caching, and strict Regex PII masking. Secures infrastructure via an **AST Mathematical Sandbox** to prevent RCE. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688) ![Serverless](https://img.shields.io/badge/Cloud_Serverless-orange) ![GenAI](https://img.shields.io/badge/Gemini_Agent-8E75B2) |
+| **[Algorithmic Trading & MLOps Engine](https://github.com/SantiagoDaleffe/financial-news-lakehouse-rag)** | Event-driven forecasting framework executed via **GitHub Actions**. Implements **Walk-Forward Optimization** with strict embargoes to prevent data leakage. Features automated Challenger-Champion retraining for Concept Drift, Optuna tuning, and **SHAP** explainability. | ![LightGBM](https://img.shields.io/badge/LightGBM-green) ![MLOps](https://img.shields.io/badge/MLflow-0194E2) ![PostgreSQL](https://img.shields.io/badge/Supabase-black) |
+| **[Real-Time Fraud Detection System](https://github.com/SantiagoDaleffe/credit-risk-scoring-engine)** | Microservices-based anomaly detection engine deployed as a REST API. Employs **Adversarial Validation** and targeted class weights on highly imbalanced datasets to maximize precision and minimize false positives in financial transactions. | ![Python](https://img.shields.io/badge/Python-3776AB) ![Fraud](https://img.shields.io/badge/Anomaly_Detection-red) ![Docker](https://img.shields.io/badge/Docker-2496ED) |
 
 ### Technical Stack
 
+**Architecture & Cloud**
+![Serverless](https://img.shields.io/badge/Serverless_Architecture-black?style=flat) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
+
 **GenAI & NLP**
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-**Machine Learning & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+**Machine Learning & MLOps**
+![LightGBM](https://img.shields.io/badge/LightGBM-000000?style=flat) ![Optuna](https://img.shields.io/badge/Optuna-blue?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
-**Data Engineering & MLOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+**Backend & Data Engineering**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 
 ---
 
