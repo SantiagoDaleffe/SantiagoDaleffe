@@ -1,14 +1,10 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
-
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Santiago
 
-#### **Founding Machine Learning Engineer | AI Architecture & Quant Systems**
+#### **Machine Learning Engineer & System Architect**
 
-I build resilient, production-grade ML architectures. My expertise lies in designing **event-driven MLOps pipelines** and **Neurosymbolic AI systems**, bridging the gap between rigorous data science and highly concurrent backend engineering. 
+I build AI systems that actually live in production—not just in Jupyter notebooks. I specialize in the intersection of **Quantitative Finance** and **Agentic GenAI**, designing robust architectures that process messy real-time data into deterministic, audited decisions. 
 
-I focus on moving complex predictive models from Jupyter notebooks into **serverless, sub-second REST APIs**, ensuring absolute data isolation, zero-trust security, and scalable cloud infrastructure.
-
-Currently developing end-to-end solutions involving **Agentic RAG Workflows**, **Continuous Model Retraining (Concept Drift)**, and **Multi-Tenant Microservices**.  
+My work focuses on the "unsexy" part of AI that makes or breaks a product: **event-driven orchestration, fault-tolerant ETL pipelines, and rigorous MLOps.**
 
 ---
 
@@ -35,6 +31,11 @@ Currently developing end-to-end solutions involving **Agentic RAG Workflows**, *
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 
 ---
+
+### Currently focusing on
+* **Serverless Engineering:** Migrating event-driven pipelines (RabbitMQ, ETL) to managed cloud services for \$0 maintenance cost.
+* **Neurosymbolic AI:** Auditing LightGBM quant signals with Gemini agents to mitigate financial hallucinations.
+* **CI/CD Orchestration:** Automating model retraining (Challenger-Champion) and RAG evaluation suites using GitHub Actions.
 
 ### Connect with me
 <p>
