@@ -2,9 +2,7 @@
 
 #### **Machine Learning Engineer & System Architect**
 
-I build AI systems that actually live in production—not just in Jupyter notebooks. I specialize in the intersection of **Quantitative Finance** and **Agentic GenAI**, designing robust architectures that process messy real-time data into deterministic, audited decisions. 
-
-My work focuses on the "unsexy" part of AI that makes or breaks a product: **event-driven orchestration, fault-tolerant ETL pipelines, and rigorous MLOps.**
+I specialize in engineering, deploying, and scaling secure AI-driven architectures and quantitative data pipelines. As a pragmatic builder, my focus is transitioning complex predictive models and Agentic RAG workflows from research environments into high-availability, serverless REST APIs.
 
 ---
 
